@@ -6,7 +6,7 @@ public class Main {
         Student student1 = new Student("Karen",new double[]{80,100,90,99,99});
         Student student2 = new Student("Terry",new double[]{50,70,95,78,99});
         Student student3 = new Student("Mike",new double[]{89,60,80,69,59});
-        Student student4 = new Student("Tom",new double[]{95,96,95,80,99});
+        Student student4 = new Student("Ran",new double[]{95,96,95,80,99});
 
         student.displayStudentInfo();
         student1.displayStudentInfo();
