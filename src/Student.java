@@ -39,5 +39,6 @@ public class Student {
         System.out.println("First Name: " + firstName);
         System.out.println("Exam Scores: " + Arrays.toString(examScores));
         System.out.println("Average: " + calculateAverage());
+        System.out.println("Hello friends");
     }
 }
